@@ -1,4 +1,4 @@
-,ID,ERA,Win,Innings pitched,OBA,HR,BB,SO,GB/FB ,WHIP
+name,ID,ERA,Win,Innings pitched,OBA,HR,BB,SO,GB/FB ,WHIP
 Verlander,1,3.46,13,281.1,0.229,19,79,217,0.672,1.32
 Scherzer,2,2.9,21,214.1,0.181,18,60,240,0.624,0.97
 Hernandez?,3,3.04,12,204.1,0.224,15,49,216,1.122,1.13

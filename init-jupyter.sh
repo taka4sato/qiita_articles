@@ -26,6 +26,9 @@ echo -e "\nexport PATH='$PYENV/versions/anaconda$ANACONDA_VERSION/bin/:$PATH'" |
 source ~/.bash_profile
 conda update --yes conda
 
+##Install addtional python libraries
+conda install --yes seaborn
+
 
 ##Configure Jupyter
 sudo su -l hadoop -c "jupyter notebook --generate-config"

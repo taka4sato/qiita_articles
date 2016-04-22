@@ -27,7 +27,7 @@ source ~/.bash_profile
 conda update --yes conda
 
 ##Install addtional python libraries
-conda install --yes seaborn
+conda install --yes seaborn boto3
 
 
 ##Configure Jupyter
